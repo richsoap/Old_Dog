@@ -1,0 +1,5 @@
+Install Applied Wave Research MicroWave Office v5.00, and execute 
+MWO_v5.0_MakeLIC.exe for produce the "awr.lic" license file
+
+the Final step is to copy this awr.lic into your installation folder:
+ie: C:\Program Files\AWR\MWO2002\
